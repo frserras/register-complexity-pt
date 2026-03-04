@@ -1,8 +1,8 @@
 # Compression-based Language Complexity under Register Variation in Portuguese
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.11%2B-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
 
-This repository contains the companion code and experiment scripts for the paper **"Compression-based Language Complexity under Register Variation in Portuguese"**, accepted for publication at the **17th International Conference on Computational Processing of Portuguese (PROPOR 2026)**.
+This repository contains the companion code, experiment scripts and plots for the paper **"Compression-based Language Complexity under Register Variation in Portuguese"**, accepted for publication at the **17th International Conference on Computational Processing of Portuguese (PROPOR 2026)**.
 
 ## 📄 Abstract
 
@@ -19,7 +19,7 @@ First, clone this repository and navigate into it:
 
 ```bash
 git clone https://github.com/frserras/register-complexity-pt
-cd repo-name
+cd register-complexity-pt
 
 ```
 
@@ -81,7 +81,8 @@ This paper has been accepted for **PROPOR 2026**. If you use this code or findin
   note={To appear}
 
 ```
+This reference will be updated after the publication of the proceedings.
 
 ## 📜 License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License. See [LICENSE](LICENSE)
