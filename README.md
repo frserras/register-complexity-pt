@@ -28,7 +28,7 @@ This project relies on the `lang_complexity` library. You must clone it directly
 
 ```bash
 # Clone the library into the current directory
-git clone https://github.com/frserras/lang_complexity
+git clone --branch v1.0.0 https://github.com/frserras/lang_complexity
 
 ```
 
