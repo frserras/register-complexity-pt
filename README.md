@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
 
-This repository contains the companion code, experiment scripts and plots for the paper **"Compression-based Language Complexity under Register Variation in Portuguese"**, accepted for publication at the **17th International Conference on Computational Processing of Portuguese (PROPOR 2026)**.
+This repository contains the companion code, experiment scripts and plots for the paper **"Compression-based Language Complexity under Register Variation in Portuguese"**, presented at the **17th International Conference on Computational Processing of Portuguese (PROPOR 2026)**.
 
 ## 📄 Abstract
 
@@ -69,19 +69,30 @@ The experiments use the [carol-domain-sents](https://huggingface.co/datasets/car
 
 ## 🔗 Citation
 
-This paper has been accepted for **PROPOR 2026**. If you use this code or findings in your research, please cite it as follows:
+This paper was presented at **PROPOR 2026** and published in the proceedings (available in the ACL Anthology). If you use this code or findings in your research, please cite it as follows:
 
 ```bibtex
-@inproceedings{serras2026compression,
-  title={Compression-based Language Complexity under Register Variation in Portuguese},
-  author={Serras, Felipe Ribas and Finger, Marcelo},
-  booktitle={Proceedings of the 17th International Conference on Computational Processing of Portuguese (PROPOR)},
-  year={2026},
-  publisher = "Association for Computational Lingustics",
-  note={To appear}
-
+@inproceedings{serras-finger-2026-compression,
+    title = "Compression-based Language Complexity under Register Variation in {P}ortuguese",
+    author = "Serras, Felipe Ribas  and
+      Finger, Marcelo",
+    editor = "Souza, Marlo  and
+      de-Dios-Flores, Iria  and
+      Santos, Diana  and
+      Freitas, Larissa  and
+      Souza, Jackson Wilke da Cruz  and
+      Ribeiro, Eug{\'e}nio",
+    booktitle = "Proceedings of the 17th International Conference on Computational Processing of {P}ortuguese ({PROPOR} 2026) - Vol. 1",
+    month = apr,
+    year = "2026",
+    address = "Salvador, Brazil",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.propor-1.80/",
+    pages = "808--818",
+    ISBN = "979-8-89176-387-6",
+    abstract = "Compression-based language complexity metrics show promise as holistic parameters for measuring linguistic complexity across intra- and cross-linguistic scenarios. Yet, their sensitivity to specific forms of linguistic variation requires further experimental validation. We examine the sensitivity of this metric family to register variation in Portuguese, a phenomenon already established for English. We refine the validation process found in previous literature by introducing a more granular statistical analysis to evaluate both the individual and joint sensitivity of these metrics to register variation at the sentence level. Our results confirm they are highly sensitive to functional variation in Portuguese, exhibiting the same structural morphosyntactic trade-off consistent with that observed in English and in cross-linguistic studies."
+}
 ```
-This reference will be updated after the publication of the proceedings.
 
 ## 📜 License
 
